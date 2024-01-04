@@ -1,0 +1,30 @@
+div {
+    font-family: Verdana; /*font-family determina o estilo de fonte utilizada*/
+}
+
+h1 {
+    font-size: 22px; /*tamanho da fonte=22*/
+    text-align: center; /*texto alinhado no centro*/
+}
+
+h2 {
+    font-size: 18px; /*tamanho da fonte=18*/
+    color: #88100f; /*cor da fonte*/
+    font-weight: normal; /*clareamento da letra*/
+    text-align: center; /*alinhamento do texto centralizado*/
+}
+
+h3 {
+    font-size: 16px; /*tamanho da fonte*/
+    text-decoration: underline; /*linha em baixo do texto*/
+    color: #88100f; /*cor do texto*/
+}
+
+p {
+    font-size: 14px; /*tamanho da fonte=14*/
+    line-height: 28px; /*distância entre as linhas*/ 
+}
+
+span{
+    text-align: center;
+}
